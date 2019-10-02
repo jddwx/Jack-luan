@@ -10,7 +10,7 @@
 
 ###### heyheyhey
 
-Nice to meet you,hahahaha  :D
+Nice to meet you,hahahaha  (:D)
 
 * ha ha ha
 
