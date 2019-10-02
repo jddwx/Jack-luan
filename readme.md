@@ -14,7 +14,7 @@ Nice to meet you,hahahaha  (:D)
 
 * ha ha ha
 
-this is a [link](http://www.baidu.com) and you will find nothing (:P)
+this is a [link](www.baidu.com) and you will find nothing (:P)
 
 [click here](http://www.baidu.com)
 
