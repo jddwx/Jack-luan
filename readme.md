@@ -1,4 +1,4 @@
-# Project:A computer control device for armless people(2.0)
+# Project:A computer control device for armless people
 ###### The source of this project is [the United Nations sustainable development goals NO.3](https://www.un.org/sustainabledevelopment/zh/health/). I hope to help armless people use computers more conveniently through this project.
 
 ### MY DREAMS:
