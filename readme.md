@@ -13,6 +13,117 @@
 ### STH I ALREADY KNOW
 * Now people can use bluetooth or infrared to operate wirelessly
 
-### STM I want to know
+### STH I want to know
 * What kind of way do armless disabled people use computers nowadays
 * Is there such a product now? How much does it cost?
+
+
+#### And then there is nothing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### believe me!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### emmmmmmmm...(nothing really)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# congratulations! 
+
+# Achievement: page Turner!
