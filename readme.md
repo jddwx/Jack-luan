@@ -16,6 +16,3 @@
 ### STH I want to know
 * What kind of way do armless disabled people use computers nowadays
 * Is there such a product now? How much does it cost?
-
-
-## No surprises [here](https://github.com/jddwx/Jack-luan/blob/master/about_myself.md)
