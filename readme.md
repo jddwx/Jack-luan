@@ -16,7 +16,3 @@
 ### STH I want to know
 * What kind of way do armless disabled people use computers nowadays
 * Is there such a product now? How much does it cost?
-
-
-#### And then there is [nothing] 
-* It's a boring thing, no need to click
