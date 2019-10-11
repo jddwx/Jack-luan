@@ -16,3 +16,9 @@
 ### STH I WANT TO KNOW
 * What kind of way do armless disabled people use computers nowadays
 * Is there such a idea now? How does it work?
+
+先确认问题
+
+### help armless
+* use eye  (blink)
+* more wide
