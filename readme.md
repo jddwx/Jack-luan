@@ -15,4 +15,4 @@
 
 ### STH I WANT TO KNOW
 * What kind of way do armless disabled people use computers nowadays
-* Is there such a product now? How much does it cost?
+* Is there such a idea now? How does it work?
