@@ -17,5 +17,5 @@
 * What kind of way do armless disabled people use computers nowadays
 * Is there such a idea now? How does it work?
 
-## [This is My research](https://www.wjx.cn/m/47409757.aspx)
+## [This is My questionnaire](https://www.wjx.cn/m/47409757.aspx)
 
