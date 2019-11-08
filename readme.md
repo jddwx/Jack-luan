@@ -22,11 +22,9 @@ Help armless people more convenient and comfortable to use the computer
 ## [This is My questionnaire](https://www.wjx.cn/m/47409757.aspx)
 
 
-
-
-
-
-
-
 ![](image/01.png)
-
+![](image/02.png)
+![](image/03.png)
+![](image/04.png)
+![](image/05.png)
+![](image/06.png)
