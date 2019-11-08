@@ -3,7 +3,7 @@
 [![](http://sce3a3b6c0d5pq-sb-qn.qiqiuyun.net/files/default/2018/01-31/2037448f1972464083.jpg)](https://www.un.org/sustainabledevelopment/zh/health/)
 ### MY DREAMS:
 * Help somebody as lazy as me can use the computer without arms
-Help armless people more convenient and comfortable to use the computer
+* Help armless people more convenient and comfortable to use the computer
 ### SOME PROBLEMS：  
 ##### （How do I...）
 * Make this device wearable for the armless
