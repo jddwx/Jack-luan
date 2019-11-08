@@ -1,6 +1,6 @@
 # Project:How to control the computer without arms
 ###### I get this idea from [the United Nations sustainable development goals NO.3](https://www.un.org/sustainabledevelopment/zh/health/). This is a project to design a computer control device which can help armless people use computers more conveniently through this project.
-![](http://sce3a3b6c0d5pq-sb-qn.qiqiuyun.net/files/default/2018/01-31/2037448f1972464083.jpg)
+[![](http://sce3a3b6c0d5pq-sb-qn.qiqiuyun.net/files/default/2018/01-31/2037448f1972464083.jpg)](https://www.un.org/sustainabledevelopment/zh/health/)
 ### MY DREAMS:
 * Help somebody as lazy as me can use the computer without arms
 Help armless people more convenient and comfortable to use the computer
